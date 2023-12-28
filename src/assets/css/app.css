@@ -1,0 +1,10 @@
+@media screen and (max-width:850px) {
+  .desc-en{
+    display: none;
+  }
+}
+@media screen and (max-width:650px) {
+  .logo{
+    display: none;
+  }
+}

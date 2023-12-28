@@ -1,0 +1,31 @@
+@media screen and (min-width: 768px) {
+  .img-box {
+    width: 50%;
+  }
+}
+
+@media screen and (min-width: 992px) {
+
+  .img-box {
+    width: 33%;
+  }
+}
+
+@media screen and (min-width:1260px) {
+  .img-boxs{
+    padding:0;
+  }
+  .home, .collection-imgs, .collection, .search-cont {
+    width: 1160px;
+  }
+}
+
+@media screen and (min-width:1920px) {
+  .home {
+    width: 1260px;
+  }
+
+  .img-box {
+    width: 25%;
+  }
+}

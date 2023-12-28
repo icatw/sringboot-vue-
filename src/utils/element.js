@@ -1,0 +1,50 @@
+import Vue from 'vue'
+import {
+  Icon,
+  Button,
+  Row,
+  Col,
+  Select,
+  Option,
+  Pagination,
+  Input,
+  Empty,
+  Avatar,
+  Divider,
+  Form,
+  FormItem,
+  Radio,
+  RadioGroup,
+  Dialog,
+  Upload,
+  Dropdown,
+  DropdownItem,
+  DropdownMenu,
+  Tabs,
+  TabPane,
+  Tooltip
+} from 'element-ui'
+
+Vue.use(Icon)
+Vue.use(Button)
+Vue.use(Row)
+Vue.use(Col)
+Vue.use(Select)
+Vue.use(Option)
+Vue.use(Pagination)
+Vue.use(Input)
+Vue.use(Empty)
+Vue.use(Avatar)
+Vue.use(Divider)
+Vue.use(Form)
+Vue.use(FormItem)
+Vue.use(Radio)
+Vue.use(RadioGroup)
+Vue.use(Dialog)
+Vue.use(Upload)
+Vue.use(Dropdown)
+Vue.use(DropdownItem)
+Vue.use(DropdownMenu)
+Vue.use(Tabs)
+Vue.use(TabPane)
+Vue.use(Tooltip)
